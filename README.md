@@ -1,4 +1,4 @@
-This repository contains device configuration for Xiaomi Redmi 5 Plus (vince)
+This repository contains device configuration for Xiaomi Redmi 5 Plus (vince) for MiracleDROID
 
 Basic   | Spec Sheet
 -------:|:----------
